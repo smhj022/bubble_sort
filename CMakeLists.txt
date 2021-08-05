@@ -3,4 +3,4 @@ project(datastructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(datastructure main.cpp helloworld/hello_world.h)
+add_executable(datastructure main.cpp helloworld/bubble_sort.h)
